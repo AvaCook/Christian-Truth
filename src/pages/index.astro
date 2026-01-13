@@ -1,16 +1,70 @@
 ---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
 
+const chapters = (await getCollection('chapters'))
+  .sort((a, b) => a.data.chapter - b.data.chapter);
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout title="Christian Truth Claims">
+  <main>
+    <h1>Logical, Intellectual Evidences for Christianity: 
+	</h1>
+	<p class="subtitle3">
+      A Compendium of Resources that Support Christianity’s Claims
+	</p>
+    <p class="subtitle">
+      One doesn’t have to throw their brains in the trash to believe in Jesus and the Bible; rather, one’s intellect can remain intact and in full use as this significant question is objectively investigated, bias-free.
+		A full, objective investigation will confirm Christianity.
+		Uncovering objective truths that are independent of interpretation.
+	</p>
+	<p class="subtitle2">
+		Investigate – Examine – Uncover objective truths –
+		Be transformed.
+	</p>
+
+	<div class="home-actions">
+	<a href="/bibliography" class="action-button">
+		Bibliography
+	</a>
+
+	<a href="/websites" class="action-button">
+		Relevant Websites
+	</a>
+	</div>
+
+	<div class="toc-container">
+	<h2 class="toc-title">Table of Contents</h2>
+	<table class="toc-table">
+		<thead>
+		<tr>
+			<th>Chapter</th>
+			<th>Truth Claim</th>
+		</tr>
+		</thead>
+		<tbody>
+		{chapters.map((chapter) => (
+			<tr>
+			<td class="chapter-cell">
+				<a href={`/chapters/${chapter.slug}`}>
+				<span class="chapter-number">
+					{chapter.data.chapter}.
+				</span>
+				<span class="chapter-title">
+					{chapter.data.title}
+				</span>
+				</a>
+			</td>
+			<td class="description-cell">
+				{chapter.data.description || "No description available."}
+			</td>
+			</tr>
+		))}
+		</tbody>
+	</table>
+	</div>
+	<p class="subtitle2">
+        “You can choose whichever (worldview) you want…but if you’re going to be a scholar (italics added) about it, you’re going to choose Christianity every time…” – William Lane Craig, in Strobel, Lee (20___). The Case for Christ (video).
+    </p>
+  </main>
+</BaseLayout>

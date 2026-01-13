@@ -1,0 +1,26 @@
+---
+import "../styles/global.css";
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{title}</title>
+  </head>
+  <body>
+  <div class="page-content-wrapper">
+    <slot />
+  </div>
+
+  <footer class="site-footer">
+    <p>
+      Compiled by Dr. James Latten, December 2023-present
+    </p>
+    <p>
+        Website developed by Ava Cook, January 2026
+    </p>
+  </footer>
+</body>
+</html>
