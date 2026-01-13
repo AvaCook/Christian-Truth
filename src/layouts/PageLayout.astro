@@ -11,16 +11,32 @@ import "../styles/global.css";
     <title>{title}</title>
   </head>
   <body>
-    <main>
+  <header class="site-header">
+      <nav class="nav-bar">
+        <a href="/" class="nav-home">Christianity is True</a>
+
+        <div class="nav-links">
+          <a href="/bibliography">Bibliography</a>
+          <a href="/websites">Relevant Websites</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="chapter">
       <h1>{title}</h1>
 
-      {description && (
-        <p class="subtitle">{description}</p>
-      )}
 
-      <article class="page-content">
+      <article class="page-content bibliography">
         <slot />
       </article>
     </main>
+    <footer class="site-footer">
+    <p>
+      Compiled by Dr. James Latten, December 2023-present
+    </p>
+    <p>
+        Website developed by Ava Cook, January 2026
+    </p>
+  </footer>
   </body>
 </html>

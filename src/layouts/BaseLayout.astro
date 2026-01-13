@@ -1,6 +1,7 @@
+
 ---
+const { title, description } = Astro.props;
 import "../styles/global.css";
-const { title } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -9,12 +10,31 @@ const { title } = Astro.props;
     <meta charset="utf-8" />
     <title>{title}</title>
   </head>
-  <body>
-  <div class="page-content-wrapper">
-    <slot />
-  </div>
 
-  <footer class="site-footer">
+  <body>
+    <header class="site-header">
+      <nav class="nav-bar">
+        <a href="/" class="nav-home">Christianity is True</a>
+
+        <div class="nav-links">
+          <a href="/bibliography">Bibliography</a>
+          <a href="/websites">Relevant Websites</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+
+      {description && (
+        <p class="subtitle">{description}</p>
+      )}
+
+      <article class="page-content">
+        <slot />
+      </article>
+    </main>
+
+    <footer class="site-footer">
     <p>
       Compiled by Dr. James Latten, December 2023-present
     </p>
@@ -22,5 +42,5 @@ const { title } = Astro.props;
         Website developed by Ava Cook, January 2026
     </p>
   </footer>
-</body>
+  </body>
 </html>

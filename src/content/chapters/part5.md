@@ -1,22 +1,28 @@
 ---
-title: "Part 1"
-chapter: 1
-description: "There is such a thing as absolute truth, and by using standardized, logical, historical investigative techniques, this truth can be found. All major religions have claims of exclusivity. The law of noncontradiction is always in play."
+title: "Part 5"
+chapter: 5
+description: "The complexity of DNA and living cells requires that a designer designed them. They could not have evolved into initial existence (at any level of complexity) on their own.
+"
 ---
 
 ## OVERVIEW
 
-Logical Fallacies and Cognitive Biases
+Origin of first life
 
-Law of Non-Contradiction
+Panspermia
 
-Law of Causality
+Human and Chimpanzee DNA: Similarities
 
-Scriptural Passages
+Irreducible Complexity
+
+God-of-the-Gaps fallacy
+
+Junk DNA
+
 
 ## TRUTH CLAIM
 
-There is such a thing as absolute truth, and by using standardized, logical, historical investigative techniques, this truth can be found. All major religions have claims of exclusivity. The law of noncontradiction is always in play.
+The complexity of DNA and living cells requires that a designer designed them. They could not have evolved into initial existence (at any level of complexity) on their own.
 
 ## IMPACT, IF IT IS TRUE:
 

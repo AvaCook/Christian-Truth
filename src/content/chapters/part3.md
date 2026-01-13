@@ -1,22 +1,31 @@
 ---
-title: "Part 1"
-chapter: 1
-description: "There is such a thing as absolute truth, and by using standardized, logical, historical investigative techniques, this truth can be found. All major religions have claims of exclusivity. The law of noncontradiction is always in play."
+title: "Part 3"
+chapter: 3
+description: "Based on evidence from physics and astronomy, the Universe had a beginning – and from the beginning, the universe was and is fine-tuned for life to occur on Earth. It could not have happened by chance.
+"
 ---
 
 ## OVERVIEW
 
-Logical Fallacies and Cognitive Biases
+Atheistic “Cosmic Rebound” theory
 
-Law of Non-Contradiction
+Atheistic “Punctuated Equilibrium” theory
 
-Law of Causality
+Atheistic “Imaginary Time” theory
 
-Scriptural Passages
+Atheistic “Multiple Universe” or “Multiverse” theory
+
+Atheistic “Life came from other places in the universe” theory
+
+Vents in the ocean
+
+Life from crystalline clay
+
+Kalam Cosmological Argument
 
 ## TRUTH CLAIM
 
-There is such a thing as absolute truth, and by using standardized, logical, historical investigative techniques, this truth can be found. All major religions have claims of exclusivity. The law of noncontradiction is always in play.
+Based on evidence from physics and astronomy, the Universe had a beginning – and from the beginning, the universe was and is fine-tuned for life to occur on Earth. It could not have happened by chance.
 
 ## IMPACT, IF IT IS TRUE:
 

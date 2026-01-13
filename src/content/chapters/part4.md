@@ -1,22 +1,56 @@
 ---
-title: "Part 1"
-chapter: 1
-description: "There is such a thing as absolute truth, and by using standardized, logical, historical investigative techniques, this truth can be found. All major religions have claims of exclusivity. The law of noncontradiction is always in play."
+title: "Part 4"
+chapter: 4
+description: "The Earth and the Universe are around 6,000 years old, and were created in six literal 24-hour days. 
+"
 ---
 
 ## OVERVIEW
 
-Logical Fallacies and Cognitive Biases
+Ages of Planets and Moons
 
-Law of Non-Contradiction
+Big Bang/Singularity/Cosmic Microwave Background/Tight Spiral Arms/Universal Inflation
 
-Law of Causality
+Carbon and other Radiometric Dating
 
-Scriptural Passages
+Comets
+
+Scablands (eastern Washington)
+
+Day-Age Theory
+
+Fossil Fuels
+
+Gap Theory
+
+Geology
+
+Human Fossils
+
+Ice Age and Glaciers
+
+Ice Cores research
+
+Pangaea/Supercontinent
+
+Stars and Distant Starlight
+
+Uniformitarianism
+
+Catastrophism
+
+Dinosaurs; dinosaurs alongside Humans
+
+Soft Tissue of “long-extinct” animals
+
+Noah’s Ark/Global Flood/Petrified Tree Stumps/Coal Beds
+
+Theistic Evolution
+
 
 ## TRUTH CLAIM
 
-There is such a thing as absolute truth, and by using standardized, logical, historical investigative techniques, this truth can be found. All major religions have claims of exclusivity. The law of noncontradiction is always in play.
+The Earth and the Universe are around 6,000 years old, and were created in six literal 24-hour days. 
 
 ## IMPACT, IF IT IS TRUE:
 
