@@ -28,12 +28,12 @@ But there are many religions out there, claiming many Gods. Is one of them the c
 
 ## WRITINGS THAT EXPLORE ITS TRUTH:
 
-Anderson, James N. (2016). Why should I believe Christianity? 
-p. 12-27
-Atheists believe in just one less God that Christians. Cold Case Christianity app → Quick Shots → Related to God
-Believing in God is like believing in the Flying Spaghetti Monster. Cold Case Christianity app → Quick Shots → Related to God
-Broocks, Rice (2015). God’s not dead: Evidence for God in an age of uncertainty. Thomas Nelson.
-Campbell, C.H. (2023, 4th ed.) One minute answers to skeptics. Carlsbad, CA: Always Be Ready.
+- Anderson, James N. (2016). Why should I believe Christianity? 
+  - p. 12-27
+- Atheists believe in just one less God that Christians. Cold Case Christianity app → Quick Shots → Related to God
+- Believing in God is like believing in the Flying Spaghetti Monster. Cold Case Christianity app → Quick Shots → Related to God
+- Broocks, Rice (2015). God’s not dead: Evidence for God in an age of uncertainty. Thomas Nelson.
+- Campbell, C.H. (2023, 4th ed.) One minute answers to skeptics. Carlsbad, CA: Always Be Ready.
 Question 4, p. 21+
 Question 28, p. 62
 Question 39, p. 76+
