@@ -4,6 +4,7 @@ title: "Bibliography"
 description: "Primary and secondary sources referenced throughout this project"
 ---
 
+# Bibliography
 ## Books:
 
 Anderson, James N. (2016). Why should I believe Christianity? Glasgow, Scotland: Bell and Bain.
